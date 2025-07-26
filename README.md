@@ -41,3 +41,6 @@ DocuQuery is a powerful and user-friendly application that allows you to upload 
 ```bash
 git clone https://github.com/Dedeepya265/DocuQuery.git
 cd DocuQuery
+
+
+
